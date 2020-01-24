@@ -1,0 +1,1 @@
+# djangorestapi_postscrud
